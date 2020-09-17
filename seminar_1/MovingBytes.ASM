@@ -1,4 +1,4 @@
-; Источник - https://www.youtube.com/watch?v=kdlgm4m4Tpw
+; Г€Г±ГІГ®Г·Г­ГЁГЄ - https://www.youtube.com/watch?v=kdlgm4m4Tpw
 format PE
 
 entry start
@@ -9,17 +9,13 @@ section '.data' data readable writable
 
         resStr db 'Result: %d', 0
 
-        A dw ?
-        B dw ?
-        C dw ?
-
         NULL = 0
 
 section '.code' code readable executable
 
         start:
-                mov ecx, 110b ;6 в десятичной системе счисления
-                shl ecx, 1 ;побитовый сдвиг влево на заданное значение
+                mov ecx, 110b ;6 Гў Г¤ГҐГ±ГїГІГЁГ·Г­Г®Г© Г±ГЁГ±ГІГҐГ¬ГҐ Г±Г·ГЁГ±Г«ГҐГ­ГЁГї
+                shl ecx, 1 ;ГЇГ®ГЎГЁГІГ®ГўГ»Г© Г±Г¤ГўГЁГЈ ГўГ«ГҐГўГ® Г­Г  Г§Г Г¤Г Г­Г­Г®ГҐ Г§Г­Г Г·ГҐГ­ГЁГҐ
 
                 push ecx
                 push resStr

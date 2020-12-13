@@ -1,0 +1,68 @@
+Входные данные: 15
+Выходные данные:
+Philosopher 0 is thinking for 1 seconds...
+Philosopher 1 is thinking for 1 seconds...
+Philosopher 2 is thinking for 1 seconds...
+Philosopher 3 is thinking for 3 seconds...
+Philosopher 4 is thinking for 2 seconds...
+Philosopher 2 picked up fork 2.
+Philosopher 2 picked up fork 3.
+Philosopher 2 is eating for 3 seconds.
+Philosopher 0 picked up fork 0.
+Philosopher 1 picked up fork 1.
+Philosopher 2 has finished eating.
+Philosopher 2 put down fork 2.
+Philosopher 1 picked up fork 2.
+Philosopher 1 is eating for 1 seconds.
+Philosopher 2 put down fork 3.
+Philosopher 2 is thinking for 4 seconds...
+Philosopher 3 picked up fork 3.
+Philosopher 3 picked up fork 4.
+Philosopher 3 is eating for 2 seconds.
+Philosopher 1 has finished eating.
+Philosopher 1 put down fork 1.
+Philosopher 0 picked up fork 1.
+Philosopher 0 is eating for 5 seconds.
+Philosopher 1 put down fork 2.
+Philosopher 1 is thinking for 1 seconds...
+Philosopher 3 has finished eating.
+Philosopher 3 put down fork 3.
+Philosopher 3 put down fork 4.
+Philosopher 3 is thinking for 5 seconds...
+Philosopher 2 picked up fork 2.
+Philosopher 2 picked up fork 3.
+Philosopher 2 is eating for 5 seconds.
+Philosopher 0 has finished eating.
+Philosopher 0 put down fork 0.
+Philosopher 0 put down fork 1.
+Philosopher 0 is thinking for 4 seconds...
+Philosopher 4 picked up fork 0.
+Philosopher 4 picked up fork 4.
+Philosopher 4 is eating for 1 seconds.
+Philosopher 1 picked up fork 1.
+Philosopher 4 has finished eating.
+Philosopher 4 put down fork 0.
+Philosopher 4 put down fork 4.
+Philosopher 4 is thinking for 5 seconds...
+Philosopher 2 has finished eating.
+Philosopher 2 put down fork 2.
+Philosopher 2 put down fork 3.
+Philosopher 1 picked up fork 2.
+Philosopher 1 is eating for 2 seconds.
+Philosopher 2 is thinking for 4 seconds...
+Philosopher 3 picked up fork 3.
+Philosopher 3 picked up fork 4.
+Philosopher 3 is eating for 3 seconds.
+Philosopher 0 picked up fork 0.
+Dinner's over!
+Philosopher 1 has finished eating.
+Philosopher 1 put down fork 1.
+Philosopher 1 put down fork 2.
+Philosopher 0 picked up fork 1.
+Philosopher 0 is eating for 2 seconds.
+Philosopher 3 has finished eating.
+Philosopher 3 put down fork 3.
+Philosopher 3 put down fork 4.
+Philosopher 0 has finished eating.
+Philosopher 0 put down fork 0.
+Philosopher 0 put down fork 1.
